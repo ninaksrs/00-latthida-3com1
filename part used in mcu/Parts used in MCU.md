@@ -10,4 +10,4 @@
 
 ![MCU parts](Pasted%20image%2020251020100635.png)
 
-![Basic of Microcontroller Architecture](Pasted%20image%2020251020100734.png)
+![Basic](Pasted%20image%2020251020100734.png)
